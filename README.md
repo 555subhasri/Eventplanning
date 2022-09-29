@@ -45,3 +45,5 @@ I have created a informational bot named "event planning" using Html and service
 ![photos](https://user-images.githubusercontent.com/112412481/193055251-f04d30f5-db30-4ce7-87aa-b2116ce09a1b.jpg)
 ##Decoration
 ![event 7](https://user-images.githubusercontent.com/112412481/193055534-b634de9b-01e6-48ad-9728-958e2cd3c123.jpg)
+##lighting
+![event 8](https://user-images.githubusercontent.com/112412481/193055763-cd29aa50-64c1-4bfe-93e9-d90a7f8198d0.jpg)
