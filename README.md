@@ -31,3 +31,5 @@ I have created a informational bot named "event planning" using Html and service
 -Event planning ChatBot useful for the peoples.
 - Main concept that my bot gives;About Event planning, and management.
 ## Screenshorts:
+## Home page
+![home page](https://user-images.githubusercontent.com/112412481/193051949-65441b8a-095a-44af-ab3a-393688f7c87a.jpg)
