@@ -55,3 +55,5 @@ I have created a informational bot named "event planning" using Html and service
 ![event 11](https://user-images.githubusercontent.com/112412481/193056880-a89dff7a-4df2-41d7-8892-181c674a65d7.jpg)
 ##Frequently asked questions
 ![event 12](https://user-images.githubusercontent.com/112412481/193057219-0e2bef8e-66ca-40cd-bbc1-1265350ec20a.jpg)
+##contact us:
+![event 13](https://user-images.githubusercontent.com/112412481/193057457-12a35491-29c2-4597-ba73-c1631f5f4e5e.jpg)
