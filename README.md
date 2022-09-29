@@ -41,3 +41,5 @@ I have created a informational bot named "event planning" using Html and service
 ![photos](https://user-images.githubusercontent.com/112412481/193054419-12a58a76-bcff-4a08-aa7c-0f87df6e7bcd.jpg)
 ##
 ![photos](https://user-images.githubusercontent.com/112412481/193054871-16197410-5048-4511-b221-a6b9675f567b.jpg)
+##Haldi event
+![photos](https://user-images.githubusercontent.com/112412481/193055251-f04d30f5-db30-4ce7-87aa-b2116ce09a1b.jpg)
